@@ -23,12 +23,12 @@ Here are some of the projects I've deployed so far:
 ### 1. **NC News**
 - **Description**: A solo combined backend and frontend project to display article, comment and user info onto a website styled similarly to Reddit.
 - **Technologies Used**: React, Node.js, Express.
-- **Deployed Link**: [Project Live Link](https://pza-ncnews.netlify.app/)
+- **Deployed Link**: [NCNews](https://pza-ncnews.netlify.app/)
 
 ### 2. **Pokemon API**
 - **Description**: A simple webpage utilizing API to display Pokemon characteristics 
 - **Technologies Used**: React, Node.js.
-- **Deployed Link**: [Project Live Link](https://pza-pokemonapi.netlify.app/)
+- **Deployed Link**: [PokemoonAPI](https://pza-pokemonapi.netlify.app/)
 ---
 
 ## 📚 Skills & Tools

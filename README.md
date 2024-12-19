@@ -53,9 +53,8 @@ Here are some of the projects I've deployed so far:
 
 ## 🔧 Currently Learning
 
-- Advanced React and state management
-- RESTful API Development
-- Testing with Jest and Mocha
+- Advanced React
+- Scripting
 
 ---
 

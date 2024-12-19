@@ -37,7 +37,7 @@ Here are some of the projects I've deployed so far:
 ### 2. **Pokemon API**
 - **Description**: A simple webpage utilizing API to display Pokemon characteristics 
 - **Technologies Used**: React, Node.js.
-- **Deployed Link**: [PokemoonAPI](https://pza-pokemonapi.netlify.app/)
+- **Deployed Link**: [PokemonAPI](https://pza-pokemonapi.netlify.app/)
 ---
 
 ## 📚 Skills & Tools

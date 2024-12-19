@@ -1,6 +1,6 @@
 # 👨‍💻 Junior Software Developer
 
-Hello! I'm Peter an aspiring Junior Software Developer. Below, you'll find a collection of the projects I've deployed so far.
+Hello! I'm Peter, an aspiring Junior Software Developer. Below, you'll find a collection of the projects I've deployed so far.
 
 ---
 

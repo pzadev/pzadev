@@ -1,6 +1,6 @@
 # 👨‍💻 Junior Software Developer
 
-Hello! I'm Peter, an aspiring Junior Software Developer. Below, you'll find a collection of the projects I've deployed so far.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+I'm+Peter)](https://git.io/typing-svg)
 
 ---
 

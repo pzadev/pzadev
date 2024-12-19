@@ -5,12 +5,21 @@
 
 ## 💻 About Me
 
-I'm currently using:
+I'm currently proficient in:
 
-- Frontend Development (HTML, CSS, JavaScript, React)
-- Backend Development (Node.js, Express)
-- Database Management (PostgreSQL)
-- Version Control (Git, GitHub)
+- Languages: JavaScript, using Node.js
+  and browsers as environment
+- Testing: TDD (Test Driven
+  Development), Jest, Supertest
+- Back-end: SQL, PSQL, seeding,
+  migrations
+- Front-end: HTML, CSS, React,
+  Lighthouse and other accessibility
+  tools
+- Hosting: Cloudflare, Netlify
+- Other: Paired programming, technical
+  communication, SDL, Agile and
+  SCRUM methodologies
 
 Feel free to reach out if you want to collaborate or discuss anything tech-related!
 

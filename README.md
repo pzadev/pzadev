@@ -29,12 +29,17 @@
 
 Here are some of the projects I've deployed so far:
 
-### 1. **NC News**
+### 1. EuroLingo (Team Project)
+- **Description**: A language learning 2D game visually in the style of Pokemon. Users can word match, explore, track their progress and unlock further areas of the map. The game includes user authentication managed via MongoDB. EuroLingo was developed as part of a team.
+- **Technologies Used**: React, Phaser, MongoDB, HTML, CSS, Node.js, Express, Supertest.
+- **Deployed Link**: [EuroLingo](https://eurolingogame.netlify.app/)
+
+### 2. **NC News**
 - **Description**: A solo combined backend and frontend project to display article, comment and user info onto a website styled similarly to Reddit.
 - **Technologies Used**: React, Node.js, Express.
 - **Deployed Link**: [NCNews](https://pza-ncnews.netlify.app/)
 
-### 2. **Pokemon API**
+### 3. **Pokemon API**
 - **Description**: A simple webpage utilizing API to display Pokemon characteristics 
 - **Technologies Used**: React, Node.js.
 - **Deployed Link**: [PokemonAPI](https://pza-pokemonapi.netlify.app/)

@@ -31,7 +31,7 @@ Here are some of the projects I've deployed so far:
 
 ### 1. EuroLingo (Team Project)
 - **Description**: A language learning 2D game visually in the style of Pokemon. Users can word match, explore, track their progress and unlock further areas of the map. The game includes user authentication managed via MongoDB. EuroLingo was developed as part of a team.
-- **Technologies Used**: React, Phaser, MongoDB, HTML, CSS, Node.js, Express, Supertest.
+- **Technologies Used**: React, TypeScript, Phaser, MongoDB, HTML, CSS, Node.js, Express, Supertest.
 - **Deployed Link**: [EuroLingo](https://eurolingogame.netlify.app/)
 
 ### 2. **NC News**

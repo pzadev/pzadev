@@ -1,3 +1,3 @@
-peterzaustin.com
+[www.peterzaustin.com](peterzaustin)
 
 
